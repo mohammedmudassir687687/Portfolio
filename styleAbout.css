@@ -104,17 +104,3 @@ ul li {
     text-align: center;
 }
 
-#name {
-    font-size: 50px;
-    color: red;
-    animation-name: name;
-    animation-duration: 4s;
-    animation-iteration-count: infinite;
-}
-
-@keyframes name {
-0%   {color: red;}
-25%  {color: yellow;}
-50%  {color: blue;}
-100% {color: green;}
-}
